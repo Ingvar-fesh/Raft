@@ -1,0 +1,1 @@
+python node.py localhost 8004 8001 8002 8003 8000
